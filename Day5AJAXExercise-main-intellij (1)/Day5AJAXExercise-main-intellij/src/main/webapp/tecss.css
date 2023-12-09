@@ -1,0 +1,114 @@
+#banner {width: 800px;
+		height: 164px;
+        border-left: thin solid navy;
+        border-right: thin solid navy;
+        border-top: thin solid navy;
+        border-bottom: thin solid navy;
+		background-image: url(images/tebanner.jpg);
+        padding: 0px;
+		}
+	
+#menu {width: 800px;
+		height: 25px;
+        border-left: none;
+        border-right: none;
+        border-top: thick solid #000033;
+        border-bottom: thick solid #07A767;
+		background-color: #000033;
+        padding: 0px;
+		}
+		
+	
+#body {width: 800px;
+		height: auto;
+        border-left: thin solid black;
+        border-right: thin solid black;
+        border-top: thick solid #07A767;
+        border-bottom: thin solid black;
+		background-color: #FFFFFF;
+        padding: 0px;
+		z-index: 1;
+		}
+	
+#footer {width: 800px;
+		height: 40 px;
+		border-left: thin solid black;
+		border-right: thin solid black;
+		border-top: thin solid black;
+		border-bottom: thin solid black;
+		background-color: #07A767;
+		padding: 0px;
+       }
+	   
+span{
+		font-size: x-small;
+		font-family: arial, verdana, sans-serif;
+		line-height: 135%;
+		font-weight: bold;
+		text-indent: 30px;
+		margin-left: 10px;
+		margin-right: 10px;
+		color: #FFFFFF;
+	}
+	  
+a	{
+		font-size: x-small;
+		font-family: arial, verdana, sans-serif;
+		line-height: 100%;
+		text-indent: 30px;
+		margin-left: 0px;
+		margin-right: 0px;
+		color: #000000;
+		font-weight: bold;
+	}
+
+td	{
+		font-size: small;
+		font-family: arial, verdana, sans-serif;
+		line-height: 100%;
+		text-indent: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+		text-decoration: none;
+	}
+	
+th	{
+		font-size: small;
+		font-weight: bold;
+		font-family: arial, verdana, sans-serif;
+		line-height: 100%;
+		text-indent: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+		text-decoration: none;
+	}
+	
+caption {
+		font-size: x-large;
+		font-family: arial, verdana, sans-serif;
+		font-weight: bold;
+		line-height: 100%;
+		text-indent: 40px;
+		text-align: left;
+		margin-left: 0px;
+		margin-right: 0px;
+		text-decoration: none;
+	}
+	
+p	{
+		font-size: small;
+		font-family: arial, verdana, sans-serif;
+		line-height: 100%;
+		text-indent: 0px;
+		text-align: center;
+		margin-left: 100px;
+		margin-right: 100px;
+		text-decoration: none;
+	}
+	
+body 	{
+			background-color: #000033;
+	
+		}
+	   
+ 
